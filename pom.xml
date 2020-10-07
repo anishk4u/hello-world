@@ -7,6 +7,12 @@
   <name>Sample Web application</name>
   <description>This is a sample web application</description>
   
+  <properties>
+       <java.version>1.8</java.version>
+       <maven.compiler.source>1.8</maven.compiler.source>
+       <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+
   <dependencies>
   	
   	<dependency>
